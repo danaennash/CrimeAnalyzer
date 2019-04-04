@@ -111,7 +111,7 @@ namespace ConsoleApp
 
         }
 
-        /*catch (Exception fe)
+        catch (Exception fe)
 
         {
 
@@ -131,7 +131,7 @@ namespace ConsoleApp
 
             Console.Write($"Crime data file does not exist at path: {csvFilePath}");
     
-        }*/
+        }
 
         Console.ReadLine();
 
@@ -210,7 +210,7 @@ namespace ConsoleApp
 
                 }
 
-        /*catch (InvalidCastException e)
+        catch (InvalidCastException e)
 
         {
 
@@ -222,7 +222,7 @@ namespace ConsoleApp
 
         }
 
-    }*/
+    }
 
 }
 
