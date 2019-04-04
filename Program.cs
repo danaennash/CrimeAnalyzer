@@ -28,7 +28,7 @@ namespace CrimeAnalyzer
       public int theft;
       public int mvtheft;
       
-      public class crimeStats(int year, int pop, int vCrime, int murder, int rape, int rob, int agAssault, int propCrime int burglary, int theft, int mvtheft)
+      public class crimeStats(int year, int pop, int vCrime, int murder, int rape, int rob, int agAssault, int propCrime, int burglary, int theft, int mvtheft)
       {
         this.year = year;
         this.pop = pop;
@@ -229,6 +229,8 @@ namespace CrimeAnalyzer
                      sw.Close();
 
                  }
+            
+        }
 
 
 
