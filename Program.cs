@@ -27,7 +27,7 @@ namespace CrimeAnalyzer
       public int burglary;
       public int theft;
       public int mvtheft;
-      
+   
       public class crimeStats(int year, int pop, int vCrime, int murder, int rape, int rob, int agAssault, int propCrime, int burglary, int theft, int mvtheft)
       {
         this.year = year;
@@ -42,9 +42,11 @@ namespace CrimeAnalyzer
         this.theft = theft;
         this.mvtheft = mvtheft;
       }
+        
+     }
       
        class program
-    {
+        {
 
         private static void Main(string[] args)
         {
@@ -230,10 +232,6 @@ namespace CrimeAnalyzer
 
                  }
             
-        }
-
-
-
-    }
+            
 
 }
