@@ -1,0 +1,11 @@
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/netcoreapp2.1/CrimeAnalyzer.deps.json
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/netcoreapp2.1/CrimeAnalyzer.runtimeconfig.json
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/netcoreapp2.1/CrimeAnalyzer.runtimeconfig.dev.json
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/netcoreapp2.1/CrimeAnalyzer.dll
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/netcoreapp2.1/CrimeAnalyzer.pdb
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.csprojAssemblyReference.cache
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.csproj.CoreCompileInputs.cache
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.AssemblyInfoInputs.cache
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.AssemblyInfo.cs
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.dll
+/Users/danaenash/Documents/CrimeAnalyzer/CrimeAnalyzer/obj/Debug/netcoreapp2.1/CrimeAnalyzer.pdb
